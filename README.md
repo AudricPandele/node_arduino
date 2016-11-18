@@ -9,4 +9,4 @@ Dulon Jérémy
 # Liens pour accéder aux différentes parties de l'application
 
 #### Front: https://github.com/AudricPandele/camera_iot_front
-#### Back: https://github.com/AudricPandele/camera_iot_front
+#### Back: https://github.com/AudricPandele/camera_iot
